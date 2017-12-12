@@ -1,6 +1,6 @@
 # win-expectancy
 
-The goal of this project is to use machine learning to analyze MTGO match logs and predict the winner of an in-progress game of Magic.
+The goal of this project is to use machine learning to analyze MTGO match logs and predict the win percentages of each player of an in-progress game of Magic.
 
 ## findlogs
 
